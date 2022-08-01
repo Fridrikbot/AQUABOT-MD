@@ -49,7 +49,7 @@
                
                 "apk"  :  {  
                               "N_LINK" : "*🧜‍♀️💬 Enter a google playstore app link .*" ,
-                              "ERROR"  : "*🧜‍♀️💬APK Not Found!.*"
+                              "ERROR"  : "*🧜‍♀️💬مطلعاتش!.*"
     
                            },
          "filters": {
