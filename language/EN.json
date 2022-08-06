@@ -13,14 +13,14 @@
                   "yt" :   {
                             "N_SONG"   : "*🧜‍♀️💬ENTER A SONG NAME*\nex : .song faded" ,
                             "NOT_SONG" : "*SONG NOT FOUND‼️*" ,
-                            "S_YT"     : "*🔍SEARCHING ON YOUTUBE...*" ,
+                            "S_YT"     : "*🔍بحت في يوتوب...*" ,
                             "N_YT"     : "*🧜‍♀️💬ENTER A TOPIC* \nex : .getyt sri lanka cricket" ,
                             "N_VID"    : "*🧜‍♀️💬ENTER A YOUTUBE VIDEO LINK*\nex : .video https://youtu.be/pyCIKli4YUA" ,
                             "N_FB"     : "*🧜‍♀️💬ENTER A FACEBOOK VIDEO LINK*" , 
                             "N_MF"     : "*🧜‍♀️💬ENTER A MEDIAFIRE LINK*" , 
                             "N_TIK"    : "*🧜‍♀️💬ENTER A TIKTOK VIDEO LINK*" ,
                             "NOT_VID"  : "*VIDEO NOT FOUND‼️*", 
-                            "N_IG "    : "🧜‍♀️💬ENTER A INSTAGRAM LINK",
+                            "N_IG "    : "🧜‍♀️💬دير ليان ديال انستغرام",
                             "N_FOUND"  : "*NOT FOUND‼️*"
                           } ,
                 "admin" : {  
